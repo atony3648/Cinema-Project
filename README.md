@@ -1,5 +1,6 @@
 # Cinema-Project
 A simple cinema project that can book seats and uses a hashing algorithm to encrypt passwords (see all methods below)
+Add the text files to the bin -> debug folder created by visual studio
 
 MainMenu Class
 Runs subroutine OutputMenu() which displays Cinema management system and asks for a username and password. These credentials are passed through a hashing algorithm which returns an integer value but are also saved to a txt file. These variables are then used to determine whether the user is an employee or a manager and outputs a menu with options that they can choose to do with  managers having more options available than employees.
