@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11527.330 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema Project", "Cinema Project.csproj", "{5461B727-C5C6-4390-A633-349807860D9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Review1", "..\Code Review1\Code Review1.csproj", "{8E880B90-4C64-4647-B310-E86D0607C723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5461B727-C5C6-4390-A633-349807860D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5461B727-C5C6-4390-A633-349807860D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5461B727-C5C6-4390-A633-349807860D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5461B727-C5C6-4390-A633-349807860D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E880B90-4C64-4647-B310-E86D0607C723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E880B90-4C64-4647-B310-E86D0607C723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E880B90-4C64-4647-B310-E86D0607C723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E880B90-4C64-4647-B310-E86D0607C723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E055A217-5062-471F-BE57-A0793142A1F0}
+	EndGlobalSection
+EndGlobal
